@@ -5,4 +5,4 @@ Run -> sh install.sh
 
 To use different interface, change the value inside interface.txt
 
-If you are being attacked, the warning-sound will play.
+If you are being attacked, the warning sound will play.
